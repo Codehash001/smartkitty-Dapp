@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "OwnableDelegateProxy",
+  "sourceName": "contracts/SmartKitty.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea264697066735822122086ade92b75b9938258a605f54ba66223f49fab2c475b9ea5e24c859330fc728364736f6c63430008090033",
+  "deployedBytecode": "0x6080604052600080fdfea264697066735822122086ade92b75b9938258a605f54ba66223f49fab2c475b9ea5e24c859330fc728364736f6c63430008090033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
