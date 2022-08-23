@@ -260,6 +260,7 @@ useEffect(() => {
                 <a
                 href={`https://rinkeby.etherscan.io/address/${config.contractAddress}#readContract`}
                 target="_blank"
+                rel="noreferrer"
                 className="text-gray-400 mt-4"
               >
                 <span className="break-all ...">{config.contractAddress}</span>
